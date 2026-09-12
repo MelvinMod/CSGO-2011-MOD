@@ -1,0 +1,148 @@
+﻿=== PLAYER MODELS: .mdl present but .dx90.vtx MISSING ===
+ak_anims_ct.mdl | vtx=False vvd=False dx90=False
+ak_anims_t.mdl | vtx=False vvd=False dx90=False
+cs_player_shared.mdl | vtx=False vvd=False dx90=False
+ctm_georgian.mdl | vtx=True vvd=True dx90=False
+ctm_gign.mdl | vtx=True vvd=True dx90=False
+ctm_gsg9.mdl | vtx=True vvd=True dx90=False
+ctm_idf.mdl | vtx=True vvd=True dx90=False
+ctm_idf_variantb.mdl | vtx=True vvd=True dx90=False
+ctm_idf_variantc.mdl | vtx=True vvd=True dx90=False
+ctm_idf_variantd.mdl | vtx=True vvd=True dx90=False
+ctm_idf_variante.mdl | vtx=True vvd=True dx90=False
+ctm_idf_variantf.mdl | vtx=True vvd=True dx90=False
+ctm_mpssc.mdl | vtx=True vvd=True dx90=False
+ctm_sas.mdl | vtx=True vvd=True dx90=False
+ctm_st6.mdl | vtx=True vvd=True dx90=False
+ctm_st6_varianta.mdl | vtx=True vvd=True dx90=False
+ctm_st6_variantb.mdl | vtx=True vvd=True dx90=False
+ctm_st6_variantc.mdl | vtx=True vvd=True dx90=False
+ctm_st6_variantd.mdl | vtx=True vvd=True dx90=False
+ctm_swat.mdl | vtx=True vvd=True dx90=False
+ctm_swat_ref_a.mdl | vtx=True vvd=True dx90=False
+ctm_swat_ref_b.mdl | vtx=True vvd=True dx90=False
+ctm_swat_ref_c.mdl | vtx=True vvd=True dx90=False
+ctm_swat_ref_d.mdl | vtx=True vvd=True dx90=False
+ct_animations.mdl | vtx=False vvd=False dx90=False
+leet_valve.mdl | vtx=True vvd=True dx90=False
+tm_anarchist.mdl | vtx=True vvd=True dx90=False
+tm_anarchist_varianta.mdl | vtx=True vvd=True dx90=False
+tm_anarchist_variantb.mdl | vtx=True vvd=True dx90=False
+tm_anarchist_variantc.mdl | vtx=True vvd=True dx90=False
+tm_anarchist_variantd.mdl | vtx=True vvd=True dx90=False
+tm_elite.mdl | vtx=True vvd=True dx90=False
+tm_leet.mdl | vtx=True vvd=True dx90=False
+tm_leet_varianta.mdl | vtx=True vvd=True dx90=False
+tm_leet_variantb.mdl | vtx=True vvd=True dx90=False
+tm_leet_variantc.mdl | vtx=True vvd=True dx90=False
+tm_leet_variantd.mdl | vtx=True vvd=True dx90=False
+tm_leet_variante.mdl | vtx=True vvd=True dx90=False
+tm_phoenix.mdl | vtx=True vvd=True dx90=False
+tm_phoenix_varianta.mdl | vtx=True vvd=True dx90=False
+tm_phoenix_variantb.mdl | vtx=True vvd=True dx90=False
+tm_phoenix_variantc.mdl | vtx=True vvd=True dx90=False
+tm_phoenix_variantd.mdl | vtx=True vvd=True dx90=False
+tm_pirate.mdl | vtx=True vvd=True dx90=False
+tm_professional.mdl | vtx=True vvd=True dx90=False
+tm_separatist.mdl | vtx=True vvd=True dx90=False
+t_animations.mdl | vtx=False vvd=False dx90=False
+
+=== MATERIALS referencing blood ===
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood1.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood1.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood1_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood2_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood3.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood3.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood3_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood4.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood4.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood4_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood5.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood5.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood5_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood6.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood6.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood6_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood7.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood7.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood8.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood8.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_001.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_002.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_002.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_003.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_003.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_003b.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_003b.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_101.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_101.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\bloodstain_hand.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood_splatter.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\blood_splatter.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\yblood1.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\yblood1.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\yblood1_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood1.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood1.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood1_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood2_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood3.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood3.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood3_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood4.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood4.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood4_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood5.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood5.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood5_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood9.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood9.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\decals\flesh\blood9_subrect.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_core.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_core.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_core_hdr.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_drop.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_drop.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_gore.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_gore.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_puff.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\effects\blood_puff.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_core.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_drop.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_drop.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_splatter\bloodsplatter.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_splatter\bloodsplatter_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\blood_splatter\blood_splatter.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\headshot\headshot.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\headshot\headshot.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\particle\vistasmokev1\vistasmokev1_emods_impactdust.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\sprites\bloodspray.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\sprites\bloodspray.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\bloodless_victory.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\bloodless_victory.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\bloodless_victory_bw.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\bloodless_victory_bw.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_bw.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_bw.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_in_round.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_in_round.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_in_round_bw.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\headshots_in_round_bw.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\survived_headshot_due_to_helmet.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\survived_headshot_due_to_helmet.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\survived_headshot_due_to_helmet_bw.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\achievements\survived_headshot_due_to_helmet_bw.vtf
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\logos\spray_headshot.vmt
+C:\Program Files (x86)\Steam\steamapps\common\csgo legacy\migi\csgo\addons\p_cs15\materials\vgui\logos\spray_headshot.vtf

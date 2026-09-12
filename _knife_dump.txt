@@ -1,0 +1,22 @@
+﻿FILE: p_cs15\models\weapons\v_knife.mdl
+  str: !pweapons\v_knife.mdl
+  str: weapons\v_knife.mdl
+  str: models\weapons\v_models\knife_t\
+  str: models\weapons\v_models\knife_ct\
+
+FILE: p_cs15\models\weapons\v_knife_fix.mdl
+  str: Oweapons\v_knife_fix.mdl
+  str: weapons\v_knife_fix.mdl
+  str: models/weapons\v_knife_fix.ani
+  str: models\weapons\v_models\knife_t\
+  str: models\weapons\v_models\knife_ct\
+
+FILE: p_cs15\models\weapons\w_knife.mdl
+  str: weapons\w_knife.mdl
+  str: models\weapons\w_models\w_knife_t\
+  str: models\weapons\w_models\w_knife_ct\
+
+FILE: p_cs15\models\weapons\v_tm_professional_arms.mdl
+  str: weapons/v_tm_professional_arms.mdl
+  str: models\weapons\v_models\arms\
+
